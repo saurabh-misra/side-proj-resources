@@ -3,10 +3,12 @@ Contains links to resources that prove useful while working on and trying to gro
 
 ### Reach Your Audience
 - [Hacker News](https://news.ycombinator.com/)
-- [Side Project Reddit](https://www.reddit.com/r/SideProject/)
+- [r/SideProject/](https://www.reddit.com/r/SideProject/)
 - [GummySearch-Reddit Audience Research](https://gummysearch.com/)
-- [I Made This Reddit](https://www.reddit.com/r/IMadeThis/)
+- [/r/IMadeThis/](https://www.reddit.com/r/IMadeThis/)
 - [Keyword Stats in Reddit](https://subredditstats.com/)
+- [/r/AppHookup/](https://www.reddit.com/r/AppHookup/)
+- [/r/webdev/](https://www.reddit.com/r/webdev/)
 
 ### Utilities
 - [Poet - Beautify Tweets](https://poet.so/)
