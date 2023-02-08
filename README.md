@@ -15,6 +15,7 @@ Contains links to resources that prove useful while working on and trying to gro
 - [Twitter Header Image Generator](https://codebeautify.org/twitter-header-generator)
 
 ### Online Marketplaces to sell product/business
+- [Tips on how to sell business](https://www.indiehackers.com/post/the-right-time-to-sell-your-business-and-how-4fd20c08f3?utm_source=indie-hackers-emails&utm_campaign=ih-newsletter&utm_medium=email)
 - [Microacquire by Andrew Gazdecki](https://microacquire.com/)
 - [Flippa](https://www.flippa.com/)
 - [SideProjectors](https://www.sideprojectors.com/)
