@@ -13,3 +13,13 @@ Contains links to resources that prove useful while working on and trying to gro
 ### Utilities
 - [Poet - Beautify Tweets](https://poet.so/)
 - [Twitter Header Image Generator](https://codebeautify.org/twitter-header-generator)
+
+### Online Marketplaces to sell product/business
+- [Microacquire by Andrew Gazdecki](https://microacquire.com/)
+- [Flippa](https://www.flippa.com/)
+- [SideProjectors](https://www.sideprojectors.com/)
+- [Tiny Acquisitions by Stephen Campbell](https://tinyacquisitions.com/)
+- [GetAcquired](https://getacquired.com/)
+- [Motion Invest](https://www.motioninvest.com/)
+- [IndieMaker (formerly 1kprojects) by Othmane](https://indiemaker.co/)
+
