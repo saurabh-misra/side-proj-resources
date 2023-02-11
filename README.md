@@ -9,6 +9,7 @@ Contains links to resources that prove useful while working on and trying to gro
 - [Keyword Stats in Reddit](https://subredditstats.com/)
 - [/r/AppHookup/](https://www.reddit.com/r/AppHookup/)
 - [/r/webdev/](https://www.reddit.com/r/webdev/)
+- [r/InternetIsBeautiful/](https://www.reddit.com/r/InternetIsBeautiful/)
 
 ### Utilities
 - [Poet - Beautify Tweets](https://poet.so/)
